@@ -58,7 +58,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [https://www.nasa.gov/missions/artemis-ii/arow @nbcnews @usatoday](https://www.nasa.gov/missions/artemis-ii/arow/)
 <img  alt="image" src="https://github.com/user-attachments/assets/aa71d6b0-9a58-412c-9e28-f83ccd0e601f" />
 
-@cbsla _animate_ @disney [star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc [star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)  @Doug-newman-nasa Rick asked for wind and wave data @SWOT-community @ @la-county-isd @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+@cbsla _animate_ @disney [star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc [star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)  @Doug-newman-nasa Rick asked for wind and wave data @SWOT-community @ @la-county-isd @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf) /// [download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
+@cbsla _animate_ @disney [tar.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode
+
+<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
 
 
 <a href="{{ site.url }}"  itemtype="https://schema.org/EducationalOrganization" itemprop="name">
