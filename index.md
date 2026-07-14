@@ -13,6 +13,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<a data-flickr-embed="true" data-header="true" data-footer="true" data-context="true" href="https://www.flickr.com/photos/nasahqphoto/45335488614/in/photostream/" title="Mars InSight Pre-Landing (NHQ201811260003)"><img src="https://live.staticflickr.com/4850/45335488614_f6ff48dfec_3k.jpg" width="3072" height="2244" alt="Mars InSight Pre-Landing (NHQ201811260003 @la-county-isd @cityoflosangeles @foratlanta @blackgirlscode )"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ![https://live.staticflickr.com/4830/46064378111_a0bb42a82b_b.jpg one dollar @lacmta ? @nasa-pds ](https://live.staticflickr.com/4830/46064378111_a0bb42a82b_b.jpg)
